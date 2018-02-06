@@ -1,0 +1,33 @@
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.exe.config
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csprojResolveAssemblyReference.cache
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.Form1.resources
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.Properties.Resources.resources
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csproj.GenerateResource.Cache
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.exe
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.pdb
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.exe
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.pdb
+C:\CODE\Visual Studio 2015\Projects\C#\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csproj.CoreCompileInputs.cache
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.exe.config
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.exe
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.pdb
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\bin\Debug\VisualStudio.SpellChecker.Definitions.dll
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\bin\Debug\VisualStudio.SpellChecker.Definitions.xml
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csprojResolveAssemblyReference.cache
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.Form1.resources
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.Properties.Resources.resources
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csproj.GenerateResource.Cache
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csproj.CoreCompileInputs.cache
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.exe
+C:\CODE\Personal Projects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.pdb
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.exe.config
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.exe
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.pdb
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.exe
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\bin\Debug\SudokuSolverApp.pdb
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\bin\Debug\VisualStudio.SpellChecker.Definitions.dll
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\bin\Debug\VisualStudio.SpellChecker.Definitions.xml
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csprojResolveAssemblyReference.cache
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.Form1.resources
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.Properties.Resources.resources
+C:\CODE\PersonalProjects\SudokuSolverApp\SudokuSolverApp\obj\Debug\SudokuSolverApp.csproj.GenerateResource.Cache
